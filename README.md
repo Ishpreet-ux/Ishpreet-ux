@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Ish 👋
 
-<!--
-**Ishpreet-ux/Ishpreet-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CS Student & Creative Developer  
+🌱 Currently learning Python, Git & GitHub  
+🎮 Building fun projects with Python  
+🐸 Creator of Frog Jump Path Finder  
+⚡ Debugging my life one commit at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python
+- Git & GitHub
+- HTML/CSS
+- Pygame
+
+---
+
+## 📌 Current Projects
+- Frog Jump Path Finder
+- Space Shooter Game
+
+---
+
+## 🎯 Goals
+- Build more projects
+- Learn AI/ML
+- Survive Git
