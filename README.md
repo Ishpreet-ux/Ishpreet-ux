@@ -24,12 +24,6 @@
 
 ---
 
-## 📌 Current Projects
-- Frog Jump Path Finder
-- Space Shooter Game
-
----
-
 ## 🎯 Goals
 - Build more projects
 - Learn AI/ML
