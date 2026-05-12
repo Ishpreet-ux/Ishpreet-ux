@@ -1,4 +1,4 @@
-# Hey, I'm Ish 👋
+# Hey, I'm Ishpreet 👋
 
 💻 CS Student & Creative Developer  
 🌱 Currently learning Python, Git & GitHub, AI/ML  
